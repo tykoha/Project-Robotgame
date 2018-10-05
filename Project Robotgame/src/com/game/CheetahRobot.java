@@ -16,10 +16,7 @@ public class CheetahRobot extends Robot {
 
 
     @Override
-    public void doRun(){
-
-
-
-
+    public void doRun() {
+        super.doRun();
     }
 }
