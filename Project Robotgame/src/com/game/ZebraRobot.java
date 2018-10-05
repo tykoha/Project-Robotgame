@@ -3,7 +3,7 @@ package com.game;
 public class ZebraRobot extends Robot {
 
     public ZebraRobot() {
-        super(0,0);
+        super(0, 0);
         setSpeed(1);
 
     }
@@ -14,11 +14,8 @@ public class ZebraRobot extends Robot {
     }
 
     @Override
-    public void doRun(){
-
-
-
-
+    public void doRun() {
+        super.doRun();
     }
 
 }
