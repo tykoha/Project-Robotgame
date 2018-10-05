@@ -4,15 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Gameboard game = new Gameboard();
+        Game game = new Game();
 
-        game.gameboard();
+        game.gameloop();
 
-        game.spawnRobot();
-
-        game.printBoard();
-
-
-	// write your code here
     }
 }
